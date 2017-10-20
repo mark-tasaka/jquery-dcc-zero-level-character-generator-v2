@@ -1,0 +1,312 @@
+/*
+Dungeon Crawl Classics Zero Level Characters
+www.oldschooladventures.org
+*/
+
+section {
+	position: relative;
+	width: auto;
+	margin: 200px 200px 100px 100px;
+	border-color:#A9BCF5;
+	background-color: #000000;
+	padding: 10px;
+    border-radius: 25px;
+	opacity:1.0;
+}
+
+
+
+img{
+	max-width: 100%;
+	height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttons {
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#generatebutton{
+	background-image:url("../images/button_1.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+}
+
+#generatebutton:hover{
+	background-image:url("../images/button_2.png");
+	outline : none;
+	text-decoration: none;
+	
+}
+
+#generatebutton2{
+	background-image:url("../images/button_3.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+	
+}
+
+#generatebutton2:hover{
+	background-image:url("../images/button_4.png");
+	outline : none;
+	
+}
+
+
+#generatebutton3{
+	background-image:url("../images/button_5.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+}
+
+#generatebutton3:hover{
+	background-image:url("../images/button_6.png");
+	outline : none;
+	
+}
+
+#generatebutton4{
+	background-image:url("../images/button_7.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+	
+}
+
+#generatebutton4:hover{
+	background-image:url("../images/button_8.png");
+	outline : none;
+	
+}
+
+
+#generatebutton5{
+	background-image:url("../images/button_9.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+	*/
+}
+
+#generatebutton5:hover{
+	background-image:url("../images/button_10.png");
+	outline : none;
+	text-decoration: none;
+	
+}
+
+#generatebutton6{
+	background-image:url("../images/button_11.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+	*/
+	
+}
+
+#generatebutton6:hover{
+	background-image:url("../images/button_12.png");
+	outline : none;
+	
+}
+
+
+#generatebutton7{
+	background-image:url("../images/button_13.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+}
+
+#generatebutton7:hover{
+	background-image:url("../images/button_14.png");
+	outline : none;
+	
+}
+
+#generatebutton8{
+	background-image:url("../images/button_15.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 0px;
+	margin: auto;
+	
+}
+
+#generatebutton8:hover{
+	background-image:url("../images/button_16.png");
+	outline : none;
+	
+}
+
+
+#generatebutton9{
+	background-image:url("../images/button_17.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:inline-block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 00px;
+	margin-bottom:0px;
+	margin-top: 0px;
+	/*margin-right:auto;
+	margin-left:auto;
+	outline : none;
+	*/
+	
+}
+
+#generatebutton9:hover{
+	background-image:url("../images/button_18.png");
+	outline : none;
+	
+}
+
+
+#generatebutton10{
+	background-image:url("../images/button_19.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:inline-block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 00px;
+	margin-bottom:0px;
+	margin-top: 0px;
+	/*margin-right:auto;
+	margin-left:auto;
+	outline : none;
+	*/
+	
+}
+
+#generatebutton10:hover{
+	background-image:url("../images/button_20.png");
+	outline : none;
+	
+}
+
+
+#generatebutton11{
+	background-image:url("../images/button_23.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:inline-block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 00px;
+	margin-bottom:0px;
+	margin-top: 0px;
+	/*margin-right:auto;
+	margin-left:auto;
+	outline : none;
+	*/
+	
+}
+
+#generatebutton11:hover{
+	background-image:url("../images/button_24.png");
+	outline : none;
+	
+}
+
+
+#generatebutton12{
+	background-image:url("../images/button_21.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:inline-block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 00px;
+	margin-bottom:0px;
+	margin-top: 0px;
+	/*margin-right:auto;
+	margin-left:auto;
+	outline : none;
+	*/
+	
+}
+
+#generatebutton12:hover{
+	background-image:url("../images/button_22.png");
+	outline : none;
+	
+}
+
+
+#generatebutton13{
+	background-image:url("../images/button_25.png");
+	width:200px;
+	height:60px;
+	max-width: 100%;
+	display:block;
+	text-decoration:none;
+	outline : none;
+	padding:0px 0px 0px 00px;
+	margin-bottom:0px;
+	margin-top: 0px;
+	margin-right:auto;
+	margin-left:auto;
+	outline : none;
+	
+	
+}
+
+#generatebutton13:hover{
+	background-image:url("../images/button_26.png");
+	outline : none;
+	
+}
+
